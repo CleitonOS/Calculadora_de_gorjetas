@@ -1,5 +1,5 @@
 # Calculadora_de_gorjetas
-Como o próprio nome diz, é uma calculadora de gorjetas, onde é calculado o valor da conta, a porcentagem da gorjeta baseado na avaliação do cliente do serviço , além disso, quantas pessoas haviam na mesa, assim entregando o resultado da gorjeta que deverá ser dado.
+Como o próprio nome diz, é uma calculadora de gorjetas, onde é calculado o valor da conta, a porcentagem da gorjeta baseado na avaliação do cliente do serviço, além disso, baseado em quantas pessoas haviam na mesa, é entregue o resultado da gorjeta que deverá ser dada ao funcionário do restaurante.
 
 Uma aplicação simples, utilizando html, css e javascript para implementar o cálculo a ser feito e entregar a porcentagem de gorjeta correta.
 
